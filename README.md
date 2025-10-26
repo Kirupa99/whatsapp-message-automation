@@ -35,8 +35,8 @@ Now, every message feels handcrafted — even though I didn’t type it 50 times
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/personalized-whatsapp-messenger.git
-cd personalized-whatsapp-messenger
+git clone https://github.com/<your-username>/whatsapp-message-automation.git
+cd whatsapp-message-automation
 
 2️⃣ Create a Virtual Environment
 python -m venv .venv
