@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# macOS and IDE junk
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+
+# Other temporary files
+.env
